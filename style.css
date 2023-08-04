@@ -1,0 +1,17 @@
+.containers{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.gallery{
+    margin-top: 25px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.marg{
+    margin:5px 10px;
+}
